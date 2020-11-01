@@ -8,5 +8,6 @@ https://docs.google.com/document/d/1fB5pysccOHvxphpTmCG_TGdytavMmc1cUumn8m0pwzo/
 * How it spreads - aerosols Information
 * Indoor Prevention
 * Outdoor Prevention
+* Ventilation
 * Filters to use
-* 
+
